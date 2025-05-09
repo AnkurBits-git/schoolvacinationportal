@@ -1,0 +1,6 @@
+"studentId","firstName","lastName","grade","section","vaccinated","vaccineName","dateAdministered","driveDate"
+"S1005","David","Brown","6","B",true,"Hepatitis B","2023-06-20T00:00:00.000Z",
+"S1001","John","Doe","5","A",false,,,
+"S1003","Michael","Johnson","5","A",true,"MMR","2023-06-15T00:00:00.000Z",
+"S1002","Jane","Smith","6","B",false,,,
+"S1004","Emily","Williams","7","C",false,,,
